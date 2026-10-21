@@ -1,0 +1,10 @@
+{
+  "name": "MercadoFácil PDV",
+  "description": "Sistema completo de Ponto de Venda (PDV) e Controle de Estoque com leitor de código de barras por câmera.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
